@@ -1,2 +1,2 @@
 # winston-slackbot
-Slackbot transport for winston
+Slack Bot User transport for winston
