@@ -1,0 +1,23 @@
+{
+  "name": "winston-slackbot",
+  "version": "0.0.1",
+  "description": "Winston transport for Slackbot integration",
+  "author": "William Wong <compulim@hotmail.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candrholdings/winston-slackbot.git"
+  },
+  "keywords": [
+    "winston",
+    "slack",
+    "slackbot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "slack-client": "^1.4.1",
+  },
+  "devDependencies": {
+    "winston": "^1.0.1"
+  }
+}
