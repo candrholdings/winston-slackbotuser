@@ -76,4 +76,4 @@ Name | Example | Required | Description
 Please refer to [Slack API](https://api.slack.com/methods/chat.postMessage) for details of options. [Attachments](https://api.slack.com/docs/attachments) are currently unsupported.
 
 ## Contributions
-For issues, please provide a minimal repro and post the issue to GitHub [issues](issues).
+For issues, please provide a minimal repro and post the issue to GitHub [issues](../../issues).
