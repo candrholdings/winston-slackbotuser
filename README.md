@@ -69,7 +69,7 @@ Name | Example | Required | Description
 `unfurl_media` | `false` | Optional | Pass false to disable unfurling of media content.
 `icon_url` | `http://lorempixel.com/48/48` | Optional | URL to an image to use as the icon for this message
 `icon_emoji` | `:chart_with_upwards_trend:` | Optional | emoji to use as the icon for this message. Overrides `icon_url`.
-`prefix_emojis` | `{ debug: "ant" }` | Optional | emoji to prefix when a specific log level is used.
+`prefix_emojis` | `{ debug: ":ant:" }` | Optional | emoji to prefix when a specific log level is used.
 `level` | `info` | Optional | Log level.
 `meta` | `true` | Optional | Pass false to disable logging metadata.
 
