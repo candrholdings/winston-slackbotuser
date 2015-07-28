@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "slack-client": "^1.4.1",
+    "slack-client": "^1.4.1"
   },
   "devDependencies": {
     "winston": "^1.0.1"
