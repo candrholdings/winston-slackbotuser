@@ -2,19 +2,20 @@
     'use strict';
 
     winston.add(require('../lib/index'), {
-        token: 'xoxb-1234567890-ABCDEFGHIJKLMNOPQRSTUVWX',
-        channel: '#general',
-        username: 'deploybot',
+        token: 'xoxb-8208386452-MLGjHtLogx3xr8yRJNIpFDhr',
+        // token: 'xoxb-1234567890-ABCDEFGHIJKLMNOPQRSTUVWX',
+        channel: '#aahk-eduvisit-deploy',
+        username: 'My Bot',
         level: 'debug',
 
         // "meta" default is true
         meta: true,
 
         // "emojis" defaults
-        emojis: {
-            debug: 'ant',
-            warn: 'warning',
-            error: 'fire'
+        prefix_emojis: {
+            debug: ':ant:',
+            warn: ':warning:',
+            error: ':fire:'
         },
 
         icon_emoji: 'japanese_goblin'
