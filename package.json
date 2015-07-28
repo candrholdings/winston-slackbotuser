@@ -1,6 +1,6 @@
 {
   "name": "winston-slackbotuser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Winston transport to log as a Slack bot user",
   "author": "William Wong <compulim@hotmail.com>",
   "main": "lib/index.js",
@@ -14,9 +14,7 @@
     "slackbot"
   ],
   "license": "MIT",
-  "dependencies": {
-    "slack-client": "^1.4.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "winston": "^1.0.1"
   }
