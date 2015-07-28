@@ -6,9 +6,8 @@
     var logger = new (winston.Logger)({
         transports: [
             new (winston.transports.SlackBotUser)({
-                token: 'xoxb-8208386452-MLGjHtLogx3xr8yRJNIpFDhr',
-                // token: 'xoxb-1234567890-ABCDEFGHIJKLMNOPQRSTUVWX',
-                channel: '#aahk-eduvisit-deploy',
+                token: 'xoxb-1234567890-ABCDEFGHIJKLMNOPQRSTUVWX',
+                channel: '#general',
                 username: 'My Bot',
             })
         ]

@@ -1,6 +1,6 @@
 {
   "name": "winston-slackbotuser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Winston transport to log as a Slack bot user",
   "author": "William Wong <compulim@hotmail.com>",
   "main": "lib/index.js",
