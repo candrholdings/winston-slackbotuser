@@ -1,12 +1,12 @@
 {
-  "name": "winston-slackbot",
+  "name": "winston-slackbotuser",
   "version": "0.0.1",
-  "description": "Winston transport for Slackbot integration",
+  "description": "Winston transport to log as a Slack bot user",
   "author": "William Wong <compulim@hotmail.com>",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/candrholdings/winston-slackbot.git"
+    "url": "https://github.com/candrholdings/winston-slackbotuser.git"
   },
   "keywords": [
     "winston",
